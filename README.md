@@ -61,10 +61,9 @@ I build scalable web applications, optimize database performance, and deliver cl
 | [**School System**](https://github.com/510AS/school_system) | School management (students, teachers, fees) | Laravel · MySQL |
 
 ---
+### 🏛 Jadeer Law— Legal Consultation Platform
 
-### 🏛 Jadeer (JADIR) — Legal Consultation Platform
-
-> 🌐 [jadir.ae](https://www.jadir.ae) · Dubai, UAE · Production App (iOS + Android + Web)
+> 🌐 Production App (iOS + Android + Web)
 
 A LegalTech platform I helped build at IT-RAYS, connecting clients with licensed legal experts for **secure 40-minute video consultations**. Covers real estate, family law, immigration, company formation, and compliance/AML.
 
@@ -94,22 +93,6 @@ A LegalTech platform I helped build at IT-RAYS, connecting clients with licensed
 | **BSc. of Science** | Mansoura University | 2015 – 2018 |
 | **Web Development Diploma** | Createivo Training Center | Jan – Jun 2021 |
 | **Laravel Framework Training** | Udacity & Laracasts | Sep – Nov 2021 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=510AS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510AS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=510AS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
