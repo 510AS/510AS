@@ -43,7 +43,7 @@ I build scalable web applications, optimize database performance, and deliver cl
 |---------|-------------|------|
 | [**E-Commerce NestJS**](https://github.com/510AS/e-commerce-nest) | Hybrid marketplace API (27 modules) — CQRS, Sagas, Circuit Breaker, GraphQL, Stripe, Redis, Meilisearch | NestJS · Prisma · TypeScript |
 | [**Norfolk Eyes (ANS Portfolio)**](https://github.com/510AS/ans-portfolio) | Production medical eye specialist platform — vision simulator, patient forms, 37+ API endpoints (OpenAPI) | Laravel · Filament |
-| **Jadeer Law Platform** | Legal consultation platform connecting users with Saudi & international law firms — web + mobile (Android/iOS), WebRTC video, 4jawaly SMS, Firebase notifications | Laravel · React Native |
+| [**Jadeer (JADIR) — Legal Platform**](https://www.jadir.ae) | LegalTech platform connecting clients with licensed lawyers via secure 40-min video consultations. Real estate, family law, immigration, company formation, compliance & AML | Laravel · React Native · WebRTC · Firebase · 4jawaly SMS |
 | [**Medical App**](https://github.com/510AS/medical-app) | NHS leaflet management with batch processing, reviews, newsletters, analytics | Laravel · Filament |
 | [**E-Commerce Dashboard**](https://github.com/510AS/e-commerce-dash) | E-commerce backend — product variants, cart, OTP verification, Filament admin, CI/CD | Laravel · Filament |
 | [**CTO Map**](https://github.com/510AS/cto-map) | 52-week learning tracker with PWA, gamification, spaced repetition, knowledge graph | Next.js · Prisma |
@@ -59,6 +59,31 @@ I build scalable web applications, optimize database performance, and deliver cl
 | [**E-Commerce Store**](https://github.com/510AS/E-commerce-store) | Online store with cart, admin dashboard | Laravel · Blade |
 | [**Invoices System**](https://github.com/510AS/-Invoices_Project) | Invoice management with notifications, Docker | Laravel · Docker |
 | [**School System**](https://github.com/510AS/school_system) | School management (students, teachers, fees) | Laravel · MySQL |
+
+---
+
+### 🏛 Jadeer (JADIR) — Legal Consultation Platform
+
+> 🌐 [jadir.ae](https://www.jadir.ae) · Dubai, UAE · Production App (iOS + Android + Web)
+
+A LegalTech platform I helped build at IT-RAYS, connecting clients with licensed legal experts for **secure 40-minute video consultations**. Covers real estate, family law, immigration, company formation, and compliance/AML.
+
+**My contributions:**
+- Built the **full-stack backend** (Laravel) with admin dashboard for service management
+- Developed the **mobile app** (Android/iOS) with React Native
+- Integrated **WebRTC** for real-time video consultations between clients and lawyers
+- Implemented **4jawaly SMS Gateway** for instant notifications on case updates
+- Built **Firebase/Pusher** real-time push notifications
+- **Multi-language** (Arabic/English) with full RTL support
+- **User-lawyer matching** system with document sharing
+- Payment integration with **Moyaser**
+
+**Key Features:**
+- 📹 Secure video calls (WebRTC) with licensed legal experts
+- 🔐 KYC/AML compliance integration
+- 📄 Contract review, company setup, legal translation (post-call add-ons)
+- 🌍 Cross-border services: immigration, residency, property purchase
+- 📱 Native mobile apps + responsive web
 
 ---
 
