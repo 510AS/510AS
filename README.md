@@ -20,30 +20,6 @@ I build scalable web applications, optimize database performance, and deliver cl
 
 ---
 
-## 💼 Work Experience
-
-### PHP Developer — Qutell Company
-`Sep 2025 – Present`
-- Developing and maintaining Laravel applications across **LMS**, **E-commerce**, and **SaaS** platforms
-- Building scalable and modular backend systems to support business growth and high user loads
-- Designing and implementing RESTful APIs for web and mobile applications
-
-### PHP Developer — IT-RAYS Company
-`Sep 2022 – 2025`
-- Developed and maintained Laravel-based web applications, improving system efficiency by **30%**
-- Built and optimized WordPress plugins/themes, enhancing site performance
-- Collaborated with frontend developers to integrate RESTful APIs, reducing backend response time by **25%**
-- Optimized MySQL queries, cutting database load by **40%**
-- Enhanced commercial WordPress themes: [Crust](https://developer.flavor.flavor) (25% perf via lazy loading), Radica (WooCommerce), Qonspt (UI redesign)
-- Built custom WordPress plugin: [Polylang-WooCommerce-Data-Sync](https://github.com/510AS/Polylang-WooCommerce-Data-Sync)
-
-### E-Commerce Project Trainee — Createivo Company
-`Jun – Sep 2021`
-- Developed a WooCommerce-based e-commerce site handling **500+ monthly transactions**
-- Implemented Bootstrap & jQuery for responsive design, increasing mobile traffic by **20%**
-
----
-
 ## 🛠 Technical Skills
 
 | Category | Technologies |
