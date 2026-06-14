@@ -3,31 +3,59 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FBBF24?style=for-the-badge&logo=laravel&logoColor=black" />
 </p>
 
-**Full-Stack Developer** building production-grade web applications.
+**PHP Developer** with 4+ years of experience in **Laravel** and **WordPress** development.
 
-I specialize in Laravel, NestJS, and WordPress — from RESTful APIs and Filament admin panels to enterprise e-commerce platforms. Currently deepening my expertise in backend architecture with NestJS (CQRS, Event-Driven, DDD) and frontend with Next.js and React Native.
+I build scalable web applications, optimize database performance, and deliver clean, maintainable code. Experienced in real-time systems (SMS/email notifications, WebSockets), cross-platform mobile integration (Android/iOS), and enterprise-grade API development. Currently expanding into backend architecture with NestJS (CQRS, Event-Driven, DDD).
+
+📍 Mansoura, Egypt · 📧 a.shehata.mahrus@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shehata-0a171820b/)
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Work Experience
+
+### PHP Developer — Qutell Company
+`Sep 2025 – Present`
+- Developing and maintaining Laravel applications across **LMS**, **E-commerce**, and **SaaS** platforms
+- Building scalable and modular backend systems to support business growth and high user loads
+- Designing and implementing RESTful APIs for web and mobile applications
+
+### PHP Developer — IT-RAYS Company
+`Sep 2022 – 2025`
+- Developed and maintained Laravel-based web applications, improving system efficiency by **30%**
+- Built and optimized WordPress plugins/themes, enhancing site performance
+- Collaborated with frontend developers to integrate RESTful APIs, reducing backend response time by **25%**
+- Optimized MySQL queries, cutting database load by **40%**
+- Enhanced commercial WordPress themes: [Crust](https://developer.flavor.flavor) (25% perf via lazy loading), Radica (WooCommerce), Qonspt (UI redesign)
+- Built custom WordPress plugin: [Polylang-WooCommerce-Data-Sync](https://github.com/510AS/Polylang-WooCommerce-Data-Sync)
+
+### E-Commerce Project Trainee — Createivo Company
+`Jun – Sep 2021`
+- Developed a WooCommerce-based e-commerce site handling **500+ monthly transactions**
+- Implemented Bootstrap & jQuery for responsive design, increasing mobile traffic by **20%**
+
+---
+
+## 🛠 Technical Skills
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend** | PHP (Laravel 8–12) · Node.js (NestJS 11) · REST APIs · GraphQL |
-| **Frontend** | React · Next.js · Blade · Tailwind CSS · React Native (Expo) |
-| **Admin Panels** | Filament 3 · Admin-LTE |
-| **Database** | MySQL · PostgreSQL · Prisma ORM · Eloquent ORM · Redis |
+| **Backend** | PHP (Laravel 8–12) · Node.js (NestJS) · RESTful APIs · GraphQL · Web Sockets (Pusher) · Filament |
+| **Frontend** | JavaScript · React · Vue.js · Ionic · Blade · Tailwind CSS · Bootstrap · jQuery |
+| **Database** | MySQL (query optimization) · PostgreSQL · MongoDB · Redis · Prisma ORM · Eloquent ORM |
+| **CMS** | WordPress (Theme + Plugin Dev) · WooCommerce |
+| **Integrations** | Stripe · Moyaser Payments · 4jawaly SMS · Firebase · WebRTC · Meilisearch |
 | **DevOps** | Docker · Git · GitHub Actions CI/CD · Linux |
-| **Search** | Meilisearch |
-| **Payments** | Stripe |
-| **CMS** | WordPress (Themes + Plugins) · WooCommerce |
-| **Architecture** | CQRS · Sagas · Event-Driven · DDD · Circuit Breaker |
+| **Architecture** | OOP · MVC · CQRS · Sagas · Event-Driven · DDD · Circuit Breaker · Database Optimization |
+| **Mobile** | React Native (Expo) · Cross-platform APIs |
 
 ---
 
@@ -37,30 +65,34 @@ I specialize in Laravel, NestJS, and WordPress — from RESTful APIs and Filamen
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**E-Commerce NestJS**](https://github.com/510AS/e-commerce-nest) | Hybrid marketplace (27 modules) with CQRS, Sagas, Circuit Breaker, GraphQL, Stripe, Redis, and Meilisearch | NestJS 11 · Prisma · TypeScript · Redis · BullMQ |
-| [**ANS Portfolio**](https://github.com/510AS/ans-portfolio) | Production medical eye specialist platform with vision simulator, patient forms, and 37+ API endpoints (OpenAPI documented) | Laravel · Filament · Spatie |
-| [**Medical App**](https://github.com/510AS/medical-app) | Healthcare CMS with NHS leaflet batch processing, reviews, newsletters, and analytics widgets | Laravel 12 · Filament · GitHub Actions |
-| [**E-Commerce Dashboard**](https://github.com/510AS/e-commerce-dash) | E-commerce backend with product variants, cart, OTP verification, and Filament admin | Laravel · Filament · CI/CD |
-| [**CTO Map**](https://github.com/510AS/cto-map) | 52-week learning tracker with PWA, gamification, spaced repetition, analytics, and knowledge graph | Next.js · Prisma · Tailwind |
+| [**E-Commerce NestJS**](https://github.com/510AS/e-commerce-nest) | Hybrid marketplace API (27 modules) — CQRS, Sagas, Circuit Breaker, GraphQL, Stripe, Redis, Meilisearch | NestJS · Prisma · TypeScript |
+| [**Norfolk Eyes (ANS Portfolio)**](https://github.com/510AS/ans-portfolio) | Production medical eye specialist platform — vision simulator, patient forms, 37+ API endpoints (OpenAPI) | Laravel · Filament |
+| **Jadeer Law Platform** | Legal consultation platform connecting users with Saudi & international law firms — web + mobile (Android/iOS), WebRTC video, 4jawaly SMS, Firebase notifications | Laravel · React Native |
+| [**Medical App**](https://github.com/510AS/medical-app) | NHS leaflet management with batch processing, reviews, newsletters, analytics | Laravel · Filament |
+| [**E-Commerce Dashboard**](https://github.com/510AS/e-commerce-dash) | E-commerce backend — product variants, cart, OTP verification, Filament admin, CI/CD | Laravel · Filament |
+| [**CTO Map**](https://github.com/510AS/cto-map) | 52-week learning tracker with PWA, gamification, spaced repetition, knowledge graph | Next.js · Prisma |
+| [**Polylang WooCommerce Sync**](https://github.com/510AS/Polylang-WooCommerce-Data-Sync) | WordPress plugin syncing WooCommerce product data across Polylang translations | WordPress · PHP |
 
 ### Full-Stack Applications
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Car Rent**](https://github.com/510AS/car-rent) | Vehicle rental platform with booking system, admin panel, and security compliance | Laravel · Tailwind CSS |
-| [**Rooa**](https://github.com/510AS/rooa) | Multi-vendor e-commerce with wishlist, product sections, and multi-language | Laravel · Team Project |
-| [**Future Academy**](https://github.com/510AS/future_academy) | Course management and learning platform | Laravel · Team Project |
-| [**Mini CRM**](https://github.com/510AS/Mini_CRM_Project) | CRM with multi-language, Admin-LTE, RESTful API (Postman docs), and email notifications | Laravel · AdminLTE · API |
-| [**E-Commerce Store**](https://github.com/510AS/E-commerce-store) | Complete online store with shopping cart and admin dashboard | Laravel · Blade |
-| [**Invoices System**](https://github.com/510AS/-Invoices_Project) | Invoice management with real-time notifications, PDF export, and Docker | Laravel · Docker |
-| [**School System**](https://github.com/510AS/school_system) | School management (students, teachers, classes, fees) | Laravel · MySQL |
+| [**Car Rent**](https://github.com/510AS/car-rent) | Vehicle rental platform with booking, admin panel, security compliance | Laravel · Tailwind |
+| [**Rooa**](https://github.com/510AS/rooa) | Multi-vendor e-commerce with wishlist, sections, multilingual | Laravel · Team |
+| [**Mini CRM**](https://github.com/510AS/Mini_CRM_Project) | CRM with multi-language, Admin-LTE, API (Postman docs), email notifications | Laravel · AdminLTE |
+| [**E-Commerce Store**](https://github.com/510AS/E-commerce-store) | Online store with cart, admin dashboard | Laravel · Blade |
+| [**Invoices System**](https://github.com/510AS/-Invoices_Project) | Invoice management with notifications, Docker | Laravel · Docker |
+| [**School System**](https://github.com/510AS/school_system) | School management (students, teachers, fees) | Laravel · MySQL |
 
-### WordPress & Plugins
+---
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Polylang WooCommerce Sync**](https://github.com/510AS/Polylang-WooCommerce-Data-Sync) | Plugin that syncs WooCommerce product data across Polylang translations (solves a real pain point) | WordPress · PHP |
-| [**Light WordPress Theme**](https://github.com/510AS/Light_WordPress_Theme) | Custom theme built from scratch — no parent theme | PHP · CSS |
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **BSc. of Science** | Mansoura University | 2015 – 2018 |
+| **Web Development Diploma** | Createivo Training Center | Jan – Jun 2021 |
+| **Laravel Framework Training** | Udacity & Laracasts | Sep – Nov 2021 |
 
 ---
 
@@ -86,9 +118,13 @@ I specialize in Laravel, NestJS, and WordPress — from RESTful APIs and Filamen
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
-- GitHub: [@510AS](https://github.com/510AS)
+<p align="center">
+  <a href="mailto:a.shehata.mahrus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-shehata-0a171820b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/510AS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
